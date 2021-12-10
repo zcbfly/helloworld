@@ -1,0 +1,6 @@
+﻿  LINK : 没有找到 D:\B20031601\MathClient\Debug\MathClient.exe 或上一个增量链接没有生成它；正在执行完全链接
+  MathClient.vcxproj -> D:\B20031601\MathClient\Debug\MathClient.exe
+  ..\..\MathLibrary\Debug\MathLibrary.dll
+  访问遭到拒绝
+C:\vs2\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: 命令“xcopy /y /d "..\..\MathLibrary\Debug\MathLibrary.dll" "D:\B20031601\MathClient\Debug\"
+C:\vs2\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(149,5): error MSB3073: :VCEnd”已退出，代码为 4。
